@@ -1,7 +1,7 @@
 
 Cybersecurity student :)
 
-<img height="200" src="https://media.tenor.com/l8w6vOmXJDcAAAAi/mario-64.gif" />
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/emabarreraa)
