@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100%" src="https://media.tenor.com/XU9s3X6r7dIAAAAC/cringe-skeleton.gif" style="border-radius: 10px;" />
+  <img width="100%" src="https://media1.tenor.com/m/XU9s3X6r7dIAAAAd/cringe-skeleton.gif" />
 </p>
 
 # ⚡ xB4RR3R4
@@ -11,7 +11,7 @@
       <p>📍 Argentina &nbsp;|&nbsp; 💻 Always learning</p>
     </td>
     <td width="35%" align="center">
-      <img src="https://c.tenor.com/bKjM80-P738AAAAC/griffith-berserk.gif" width="160" style="border-radius: 12px;" />
+      <img src="https://media1.tenor.com/m/bKjM80-P738AAAAd/griffith-berserk.gif" width="160" />
     </td>
   </tr>
 </table>
