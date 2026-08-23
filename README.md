@@ -1,3 +1,7 @@
+<p align="center">
+  <img width="100%" src="https://media.tenor.com/XU9s3X6r7dIAAAAC/cringe-skeleton.gif" style="border-radius: 10px;" />
+</p>
+
 # ⚡ xB4RR3R4
 
 <table border="0">
