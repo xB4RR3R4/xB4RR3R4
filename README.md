@@ -1,7 +1,7 @@
 
 Cybersecurity student :)
 
-
+<img height="200" src="https://media.tenor.com/bKjM80-P738AAAAi/griffith-berserk.gif" />
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/emabarreraa)
