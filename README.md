@@ -1,4 +1,4 @@
-# 🤫 xB4RR3R4
+# <img src="https://raw.githubusercontent.com/iamcal/emoji-data/master/img-apple-64/1f92b.png" width="30" style="vertical-align: middle;" /> xB4RR3R4
 
 <img align="right" src="./berserk.gif" width="370" style="border-radius: 8px;" />
 
