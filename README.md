@@ -1,4 +1,4 @@
-# ⚡ xB4RR3R4
+# 🤫 xB4RR3R4
 
 <img align="right" src="./berserk.gif" width="370" style="border-radius: 8px;" />
 
