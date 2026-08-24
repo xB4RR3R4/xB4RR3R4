@@ -23,6 +23,28 @@
 
 ---
 
+### 📂 Featured Repositories:
+
+<p align="center">
+  <a href="https://github.com/xB4RR3R4/pryMiPrimerAPP">
+    <img width="49%" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=xB4RR3R4&repo=pryMiPrimerAPP&theme=tokyonight&border_radius=10" />
+  </a>
+  <a href="https://github.com/xB4RR3R4/pryCalculadoraBarrera">
+    <img width="49%" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=xB4RR3R4&repo=pryCalculadoraBarrera&theme=tokyonight&border_radius=10" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/xB4RR3R4/pryConversorUnidadesBarrera">
+    <img width="49%" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=xB4RR3R4&repo=pryConversorUnidadesBarrera&theme=tokyonight&border_radius=10" />
+  </a>
+  <a href="https://github.com/xB4RR3R4/pryRegistroDeAlumno">
+    <img width="49%" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=xB4RR3R4&repo=pryRegistroDeAlumno&theme=tokyonight&border_radius=10" />
+  </a>
+</p>
+
+---
+
 ### 🌐 Connect with me:
 
 <p align="left">
@@ -36,6 +58,6 @@
 ### 📈 Activity & Stats:
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.shion.dev/api?username=xB4RR3R4&show_icons=true&theme=tokyonight&border_radius=10" />
-  <img width="49%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=xB4RR3R4&layout=compact&theme=tokyonight&border_radius=10" />
+  <img width="49%" src="https://github-readme-stats-fast.vercel.app/api?username=xB4RR3R4&show_icons=true&theme=tokyonight&border_radius=10&include_all_commits=true" />
+  <img width="49%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=xB4RR3R4&layout=compact&theme=tokyonight&border_radius=10" />
 </p>
