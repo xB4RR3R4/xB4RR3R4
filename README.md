@@ -1,23 +1,35 @@
-<p align="center">
-  <img width="100%" src="./berserk.gif" alt="Berserk Banner" />
-</p>
-
 # ⚡ xB4RR3R4
 
-<table border="0">
-  <tr>
-    <td width="65%" valign="top">
-      <h3>🛡️ Cybersecurity Student</h3>
-      <p>📍 Argentina &nbsp;|&nbsp; 💻 Always learning</p>
-    </td>
-    <td width="35%" align="center">
-      <img src="./berserk.gif" width="160" />
-    </td>
-  </tr>
-</table>
+<img align="right" src="./berserk.gif" width="370" style="border-radius: 8px;" />
+
+### 🛡️ Cybersecurity Student
+> *"mens sana in corpore sano."*
+
+📍 **Location:** Argentina  
+🎯 **Focus:** Network Security, Ethical Hacking & Linux Environments  
+🚀 **Currently Learning:** OverTheWire | CTF Challenges  
+
+<br clear="right"/>
+
+---
+
+### 🛠️ Tools & Technologies:
+
+<p align="left">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+---
 
 ### 🌐 Connect with me:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/emabarreraa)
+
+<p align="left">
+  <a href="https://instagram.com/emabarreraa" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
+  </a>
+</p>
 
 ---
 
